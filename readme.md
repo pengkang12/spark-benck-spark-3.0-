@@ -1,10 +1,10 @@
 #
-For version 3.0
+For version 3.0.3
 To do, linearRegression, LogisticRegression.
 
 # Benchmark Suite for Apache Spark #
 
-- Current version: 3.0
+- Current version: 3.0.3
 - Release date: 2015-5-10
 
 - Contents:
