@@ -1,0 +1,185 @@
+21/09/07 16:35:03 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 16:35:07 INFO FileInputFormat: Total input paths to process : 20
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:11 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:12 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:16 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:23 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:26 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:29 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:37 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:39 WARN ShippableVertexPartitionOps: Joining two VertexPartitions with different indexes is slow.
+21/09/07 16:35:40 INFO deprecation: mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000000_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000000
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000001_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000001
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000002_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000002
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000003_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000003
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000004_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000004
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000005_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000005
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000006_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000006
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000007_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000007
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000008_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000008
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:40 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000009_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000009
+21/09/07 16:35:40 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000010_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000010
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000011_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000011
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000012_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000012
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000013_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000013
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000014_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000014
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000015_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000015
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000016_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000016
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000017_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000017
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000018_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000018
+21/09/07 16:35:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:35:41 INFO FileOutputCommitter: Saved output of task 'attempt_202109071635405754304522810965788_0464_m_000019_0' to file:/home/cc/SparkBench/HDFS/StronglyConnectedComponent/Output/_temporary/0/task_202109071635405754304522810965788_0464_m_000019

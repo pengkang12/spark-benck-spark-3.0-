@@ -26,10 +26,11 @@ import org.apache.log4j.Logger
 import org.apache.log4j.Level
 import org.apache.spark.storage.StorageLevel
 
+case class Order(oid: Int,bid: Int, cts: String)
+case class OItem(iid: Int, oid: Int, gid: Int , gnum: Double, price: Double, gstore: Double)
+ 
 object HiveFromSpark {
-  case class Order(oid: Int,bid: Int, cts: String)
-  case class OItem(iid: Int, oid: Int, gid: Int , gnum: Double, price: Double, gstore: Double)
-  
+ 
 
   def main(args: Array[String]) {
   

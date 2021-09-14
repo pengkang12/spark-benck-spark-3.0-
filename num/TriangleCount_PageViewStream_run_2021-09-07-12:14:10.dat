@@ -1,0 +1,5 @@
+2021-09-07 12:14:12 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Usage: PageViewStream <metric> <host> <port>
+<metric> must be one of pageCounts, slidingPageCounts, errorRatePerZipCode, activeUserCount, popularUsersSeen
+2021-09-07 12:14:12 INFO  ShutdownHookManager:54 - Shutdown hook called
+2021-09-07 12:14:12 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-b76815df-f582-4ea7-b1b0-562e77657613

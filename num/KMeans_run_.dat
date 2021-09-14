@@ -1,0 +1,46 @@
+2021-09-07 11:09:18 WARN  Utils:66 - Your hostname, master resolves to a loopback address: 127.0.1.1; using 192.168.122.204 instead (on interface ens2)
+2021-09-07 11:09:18 WARN  Utils:66 - Set SPARK_LOCAL_IP if you need to bind to another address
+2021-09-07 11:09:19 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-09-07 11:09:19 INFO  log:192 - Logging initialized @1592ms
+2021-09-07 11:09:19 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-09-07 11:09:19 INFO  Server:419 - Started @1661ms
+2021-09-07 11:09:19 INFO  AbstractConnector:278 - Started ServerConnector@327120c8{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@649f2009{/jobs,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7249dadf{/jobs/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4362d7df{/jobs/job,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1c25b8a7{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@200606de{/stages,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@750fe12e{/stages/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@f8908f6{/stages/stage,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@24f43aa3{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@63fd4873{/stages/pool,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6ab72419{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3aacf32a{/storage,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4fdfa676{/storage/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@82c57b3{/storage/rdd,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5be82d43{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@600b0b7{/environment,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@345e5a17{/environment/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5ea502e0{/executors,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@443dbe42{/executors/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@473b3b7a{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1734f68{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77b7ffa4{/static,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@31c269fd{/,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@372b0d86{/api,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4e9658b5{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-09-07 11:09:19 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2a7b6f69{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-09-07 11:09:20 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5eeedb60{/metrics/json,null,AVAILABLE,@Spark}
+2021-09-07 11:09:21 INFO  FileInputFormat:249 - Total input paths to process : 2
+2021-09-07 11:09:22 WARN  BLAS:61 - Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+2021-09-07 11:09:22 WARN  BLAS:61 - Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+cluster centers: [1.7761621417457023,0.3437257435812798,0.16360690174853398,0.7012697819568474,-0.14952690209659697,0.01235133131928534,0.628581550842036,-0.30043466844356165,-0.11869569722318983,-0.8411796588903743,0.7485565815127884,-0.7447782016160213,-0.9680828553602358,-0.49125098278782175,-1.414462034298372,-0.8345302887715479,-0.08762345639074835,0.7111609937478776,-0.2501847153440684,0.16654693060083248],[1.5516279255239667,0.5029917527268558,-0.6417147127289293,-0.7880502448912681,0.17832686103245793,0.4697636317729199,-0.5859883541658966,-0.8242736445609756,-0.06988608793244516,1.0671650420176635,0.5151864517980276,-0.0015158182320563712,1.101622159540218,-0.3750335627018429,-0.7468577097886918,0.3234909512245623,-0.2600538097688678,0.322693681017926,-0.6958613255487117,0.12469040097219493]
+2021-09-07 11:09:23 INFO  deprecation:1173 - mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+2021-09-07 11:09:23 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 11:09:23 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 11:09:23 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907110923_0027_m_000000_0' to file:/home/cc/SparkBench/HDFS/KMeans/Output/_temporary/0/task_20210907110923_0027_m_000000
+2021-09-07 11:09:23 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 11:09:23 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907110923_0027_m_000001_0' to file:/home/cc/SparkBench/HDFS/KMeans/Output/_temporary/0/task_20210907110923_0027_m_000001
+{"loadTime":0.991,"trainingTime":1.989,"testTime":0.032,"saveTime":0.26}
+Within Set Sum of Squared Errors = 19471.80985907586
+2021-09-07 11:09:23 INFO  AbstractConnector:318 - Stopped Spark@327120c8{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}

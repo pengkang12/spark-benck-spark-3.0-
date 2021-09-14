@@ -4,7 +4,7 @@ DIR=`dirname "$0"`
 DIR=`cd "${DIR}/.."; pwd`
 cd $DIR
 
-mvn package -P spark2.0.1     
+/home/cc/maven/bin/mvn package -P spark3.0.3     
 
 
 result=$?

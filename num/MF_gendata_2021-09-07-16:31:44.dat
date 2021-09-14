@@ -1,0 +1,27 @@
+21/09/07 16:31:46 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 16:31:49 INFO deprecation: mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+21/09/07 16:31:49 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000000_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000000
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000001_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000001
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000002_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000002
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000003_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000003
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000004_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000004
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000005_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000005
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000006_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000006
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000007_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000007
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000008_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000008
+21/09/07 16:31:51 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:31:51 INFO FileOutputCommitter: Saved output of task 'attempt_202109071631497356517361217027901_0003_m_000009_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071631497356517361217027901_0003_m_000009
+-- org.jblas INFO Deleting /tmp/jblas1555272994847022753/libjblas.so
+-- org.jblas INFO Deleting /tmp/jblas1555272994847022753/libjblas_arch_flavor.so
+-- org.jblas INFO Deleting /tmp/jblas1555272994847022753

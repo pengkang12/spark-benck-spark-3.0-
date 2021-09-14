@@ -1,0 +1,56 @@
+2021-09-07 14:59:17 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-09-07 14:59:17 INFO  log:192 - Logging initialized @2088ms
+2021-09-07 14:59:17 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-09-07 14:59:17 INFO  Server:419 - Started @2159ms
+2021-09-07 14:59:17 INFO  AbstractConnector:278 - Started ServerConnector@5a021cb9{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@120f38e6{/jobs,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@43c67247{/jobs/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@fac80{/jobs/job,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@649f2009{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@14bb2297{/stages,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@69adf72c{/stages/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@797501a{/stages/stage,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@51650883{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6c4f9535{/stages/pool,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bd1ceca{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@30c31dd7{/storage,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@344344fa{/storage/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2db2cd5{/storage/rdd,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@70e659aa{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@615f972{/environment,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@285f09de{/environment/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@73393584{/executors,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@31500940{/executors/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1827a871{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@48e64352{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7249dadf{/static,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5be82d43{/,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@600b0b7{/api,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@473b3b7a{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-09-07 14:59:17 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1734f68{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-09-07 14:59:18 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1a5b8489{/metrics/json,null,AVAILABLE,@Spark}
+2021-09-07 14:59:18 INFO  deprecation:1173 - mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+2021-09-07 14:59:18 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:19 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:19 WARN  BLAS:61 - Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+2021-09-07 14:59:19 WARN  BLAS:61 - Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+2021-09-07 14:59:19 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000000_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000000
+2021-09-07 14:59:19 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:19 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000001_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000001
+2021-09-07 14:59:19 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:19 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000002_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000002
+2021-09-07 14:59:19 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:19 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000003_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000003
+2021-09-07 14:59:20 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:20 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000004_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000004
+2021-09-07 14:59:20 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:20 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000005_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000005
+2021-09-07 14:59:20 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:20 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000006_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000006
+2021-09-07 14:59:20 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:20 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000007_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000007
+2021-09-07 14:59:20 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:20 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000008_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000008
+2021-09-07 14:59:20 INFO  FileOutputCommitter:108 - File Output Committer Algorithm version is 1
+2021-09-07 14:59:20 INFO  FileOutputCommitter:535 - Saved output of task 'attempt_20210907145918_0003_m_000009_0' to file:/home/cc/SparkBench/HDFS/LinearRegression/Input/_temporary/0/task_20210907145918_0003_m_000009
+2021-09-07 14:59:20 INFO  AbstractConnector:318 - Stopped Spark@5a021cb9{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}

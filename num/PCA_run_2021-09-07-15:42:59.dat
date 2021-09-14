@@ -1,0 +1,22 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 15:43:00 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+21/09/07 15:43:03 WARN ThreadLocalRandom: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+START load
+START training
+21/09/07 15:43:05 INFO FileInputFormat: Total input paths to process : 10
+21/09/07 15:43:06 INFO deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+21/09/07 15:43:06 INFO deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+21/09/07 15:43:06 INFO deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+21/09/07 15:43:06 INFO deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+21/09/07 15:43:06 INFO deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+21/09/07 15:43:06 WARN Executor: 1 block locks were not released by TID = 0:
+[rdd_2_0]
+21/09/07 15:43:06 WARN Executor: 1 block locks were not released by TID = 1:
+[rdd_2_0]
+[Stage 2:=============================>                            (5 + 1) / 10][Stage 2:========================================>                 (7 + 1) / 10][Stage 2:====================================================>     (9 + 1) / 10]                                                                                21/09/07 15:43:08 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+21/09/07 15:43:08 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+[Stage 4:===========>                                              (2 + 1) / 10][Stage 4:=================>                                        (3 + 1) / 10][Stage 4:=============================>                            (5 + 1) / 10][Stage 4:==================================>                       (6 + 1) / 10][Stage 4:========================================>                 (7 + 1) / 10][Stage 4:========================================>                 (7 + 2) / 10][Stage 4:====================================================>     (9 + 1) / 10]                                                                                21/09/07 15:43:11 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+21/09/07 15:43:11 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeRefLAPACK
+START test
+{"loadTime":1.059,"trainingTime":11.387,"testTime":0.179}
+Number of Data = 1000

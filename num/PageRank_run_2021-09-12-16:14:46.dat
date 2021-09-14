@@ -1,0 +1,10 @@
+21/09/12 16:14:47 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/12 16:14:49 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+21/09/12 16:14:51 INFO FileInputFormat: Total input paths to process : 2
+21/09/12 16:14:54 INFO deprecation: mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+21/09/12 16:14:54 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/12 16:14:54 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/12 16:14:54 INFO FileOutputCommitter: Saved output of task 'attempt_202109121614544619408950014699702_0104_m_000000_0' to file:/home/cc/SparkBench/HDFS/PageRank/Output/_temporary/0/task_202109121614544619408950014699702_0104_m_000000
+21/09/12 16:14:54 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/12 16:14:54 INFO FileOutputCommitter: Saved output of task 'attempt_202109121614544619408950014699702_0104_m_000001_0' to file:/home/cc/SparkBench/HDFS/PageRank/Output/_temporary/0/task_202109121614544619408950014699702_0104_m_000001

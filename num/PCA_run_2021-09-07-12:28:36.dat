@@ -1,0 +1,119 @@
+2021-09-07 12:28:37 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-09-07 12:28:38 INFO  log:192 - Logging initialized @1692ms
+2021-09-07 12:28:38 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-09-07 12:28:38 INFO  Server:419 - Started @1764ms
+2021-09-07 12:28:38 INFO  AbstractConnector:278 - Started ServerConnector@f31c0c6{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@702ed190{/jobs,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@726386ed{/jobs/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@649f2009{/jobs/job,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@69adf72c{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@797501a{/stages,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1a15b789{/stages/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@57f791c6{/stages/stage,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bd1ceca{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@30c31dd7{/stages/pool,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@499b2a5c{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@596df867{/storage,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@70e659aa{/storage/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@615f972{/storage/rdd,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@285f09de{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@73393584{/environment,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@31500940{/environment/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1827a871{/executors,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@48e64352{/executors/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7249dadf{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4362d7df{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@66238be2{/static,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@345e5a17{/,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5ea502e0{/api,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77b7ffa4{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5ed190be{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-09-07 12:28:38 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@cda0432{/metrics/json,null,AVAILABLE,@Spark}
+START load
+START training
+Exception in thread "main" java.net.ConnectException: Call From master/192.168.122.204 to master:9000 failed on connection exception: java.net.ConnectException: Connection refused; For more details see:  http://wiki.apache.org/hadoop/ConnectionRefused
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.apache.hadoop.net.NetUtils.wrapWithMessage(NetUtils.java:792)
+	at org.apache.hadoop.net.NetUtils.wrapException(NetUtils.java:732)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1479)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1412)
+	at org.apache.hadoop.ipc.ProtobufRpcEngine$Invoker.invoke(ProtobufRpcEngine.java:229)
+	at com.sun.proxy.$Proxy24.getFileInfo(Unknown Source)
+	at org.apache.hadoop.hdfs.protocolPB.ClientNamenodeProtocolTranslatorPB.getFileInfo(ClientNamenodeProtocolTranslatorPB.java:771)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.hadoop.io.retry.RetryInvocationHandler.invokeMethod(RetryInvocationHandler.java:191)
+	at org.apache.hadoop.io.retry.RetryInvocationHandler.invoke(RetryInvocationHandler.java:102)
+	at com.sun.proxy.$Proxy25.getFileInfo(Unknown Source)
+	at org.apache.hadoop.hdfs.DFSClient.getFileInfo(DFSClient.java:2108)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1305)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1317)
+	at org.apache.hadoop.fs.Globber.getFileStatus(Globber.java:57)
+	at org.apache.hadoop.fs.Globber.glob(Globber.java:252)
+	at org.apache.hadoop.fs.FileSystem.globStatus(FileSystem.java:1676)
+	at org.apache.hadoop.mapred.FileInputFormat.singleThreadedListStatus(FileInputFormat.java:259)
+	at org.apache.hadoop.mapred.FileInputFormat.listStatus(FileInputFormat.java:229)
+	at org.apache.hadoop.mapred.FileInputFormat.getSplits(FileInputFormat.java:315)
+	at org.apache.spark.rdd.HadoopRDD.getPartitions(HadoopRDD.scala:200)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251)
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:46)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251)
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:46)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251)
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:46)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251)
+	at org.apache.spark.rdd.RDD$$anonfun$take$1.apply(RDD.scala:1343)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:363)
+	at org.apache.spark.rdd.RDD.take(RDD.scala:1337)
+	at org.apache.spark.rdd.RDD$$anonfun$first$1.apply(RDD.scala:1378)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:363)
+	at org.apache.spark.rdd.RDD.first(RDD.scala:1377)
+	at org.apache.spark.mllib.feature.PCA.fit(PCA.scala:43)
+	at PCA.src.main.scala.PCAApp$.main(PCAApp.scala:56)
+	at PCA.src.main.scala.PCAApp.main(PCAApp.scala)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.spark.deploy.JavaMainApplication.start(SparkApplication.scala:52)
+	at org.apache.spark.deploy.SparkSubmit$.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:894)
+	at org.apache.spark.deploy.SparkSubmit$.doRunMain$1(SparkSubmit.scala:198)
+	at org.apache.spark.deploy.SparkSubmit$.submit(SparkSubmit.scala:228)
+	at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:137)
+	at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:714)
+	at org.apache.hadoop.net.SocketIOWithTimeout.connect(SocketIOWithTimeout.java:206)
+	at org.apache.hadoop.net.NetUtils.connect(NetUtils.java:531)
+	at org.apache.hadoop.net.NetUtils.connect(NetUtils.java:495)
+	at org.apache.hadoop.ipc.Client$Connection.setupConnection(Client.java:614)
+	at org.apache.hadoop.ipc.Client$Connection.setupIOstreams(Client.java:712)
+	at org.apache.hadoop.ipc.Client$Connection.access$2900(Client.java:375)
+	at org.apache.hadoop.ipc.Client.getConnection(Client.java:1528)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1451)
+	... 65 more
+2021-09-07 12:28:39 INFO  AbstractConnector:318 - Stopped Spark@f31c0c6{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}

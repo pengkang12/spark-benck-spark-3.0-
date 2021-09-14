@@ -23,16 +23,16 @@ for workload in `cat $DIR/bin/applications.lst`; do
     fi
 
     
-	echo -e "Run ${workload}"
-	echo -e "Exec script: $WORKLOAD/bin/run.sh"
-	$WORKLOAD/bin/run.sh
-
-	result=$?
-	if [ $result -ne 0 ]
-	then
-	    echo -e "ERROR: ${workload} failed to run successfully."
-            exit $result
-	fi
+    echo -e "Run ${workload}"
+    echo -e "Exec script: $WORKLOAD/bin/run.sh"
+    $WORKLOAD/bin/run.sh
+    
+    result=$?
+    if [ $result -ne 0 ]
+    then
+        echo -e "ERROR: ${workload} failed to run successfully."
+        exit $result
+    fi
     
 done
 

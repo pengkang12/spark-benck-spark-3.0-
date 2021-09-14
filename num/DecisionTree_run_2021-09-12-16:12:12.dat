@@ -1,0 +1,8 @@
+21/09/12 16:12:14 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/12 16:12:15 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+21/09/12 16:12:18 INFO FileInputFormat: Total input paths to process : 2
+{"loadTime":1.285,"trainingTime":3.291,"testTime":0.101}
+Training error: 0.022
+Learned classification tree model:
+DecisionTreeModel classifier of depth 5 with 45 nodes

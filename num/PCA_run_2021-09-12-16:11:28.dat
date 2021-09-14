@@ -1,0 +1,13 @@
+21/09/12 16:11:31 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/12 16:11:32 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+START load
+START training
+21/09/12 16:11:35 INFO FileInputFormat: Total input paths to process : 10
+21/09/12 16:11:38 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+21/09/12 16:11:38 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+21/09/12 16:11:41 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+21/09/12 16:11:41 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeRefLAPACK
+START test
+{"loadTime":1.46,"trainingTime":11.355,"testTime":0.141}
+Number of Data = 1000

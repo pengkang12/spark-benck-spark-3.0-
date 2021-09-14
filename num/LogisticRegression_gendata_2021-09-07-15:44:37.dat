@@ -1,0 +1,30 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 15:44:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+21/09/07 15:44:41 WARN ThreadLocalRandom: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+21/09/07 15:44:43 INFO deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+21/09/07 15:44:43 INFO deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+21/09/07 15:44:43 INFO deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+21/09/07 15:44:43 INFO deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+21/09/07 15:44:43 INFO deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+21/09/07 15:44:43 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:>                                                         (0 + 0) / 10]21/09/07 15:44:44 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:44 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000000_0' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000000
+21/09/07 15:44:44 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:=====>                                                    (1 + 1) / 10]21/09/07 15:44:44 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000001_1' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000001
+21/09/07 15:44:44 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:44 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000002_2' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000002
+21/09/07 15:44:44 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:=================>                                        (3 + 1) / 10]21/09/07 15:44:44 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000003_3' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000003
+21/09/07 15:44:44 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:=======================>                                  (4 + 1) / 10]21/09/07 15:44:44 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000004_4' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000004
+21/09/07 15:44:44 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:45 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000005_5' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000005
+21/09/07 15:44:45 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:==================================>                       (6 + 1) / 10]21/09/07 15:44:45 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000006_6' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000006
+21/09/07 15:44:45 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:45 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000007_7' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000007
+21/09/07 15:44:45 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:45 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000008_8' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000008
+21/09/07 15:44:45 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:45 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000009_9' to file:/home/cc/SparkBench/HDFS/LogisticRegression/Input/_temporary/0/task_202109071544_0000_m_000009
+[Stage 0:====================================================>     (9 + 1) / 10]                                                                                

@@ -1,0 +1,34 @@
+2021-09-07 15:13:06 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-09-07 15:13:07 INFO  log:192 - Logging initialized @2057ms
+2021-09-07 15:13:07 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-09-07 15:13:07 INFO  Server:419 - Started @2147ms
+2021-09-07 15:13:07 INFO  AbstractConnector:278 - Started ServerConnector@2f3c6ac4{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7646731d{/jobs,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@69adf72c{/jobs/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@797501a{/jobs/job,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@57f791c6{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@51650883{/stages,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6c4f9535{/stages/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bd1ceca{/stages/stage,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@596df867{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@c1fca1e{/stages/pool,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@241a53ef{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@344344fa{/storage,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@73393584{/storage/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@31500940{/storage/rdd,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1827a871{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@48e64352{/environment,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7249dadf{/environment/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4362d7df{/executors,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@66238be2{/executors/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1c25b8a7{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@200606de{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@750fe12e{/static,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@473b3b7a{/,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1734f68{/api,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bbc9f97{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@133e019b{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-09-07 15:13:07 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2d84cb86{/metrics/json,null,AVAILABLE,@Spark}
+2021-09-07 15:13:09 INFO  FileInputFormat:249 - Total input paths to process : 0
+num triangles are 0
+2021-09-07 15:13:09 INFO  AbstractConnector:318 - Stopped Spark@2f3c6ac4{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}

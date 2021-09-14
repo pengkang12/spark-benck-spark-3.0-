@@ -1,0 +1,4 @@
+21/09/07 15:58:04 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 15:58:08 INFO FileInputFormat: Total input paths to process : 10
+vertices count: 500

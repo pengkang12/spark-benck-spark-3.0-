@@ -1,0 +1,12 @@
+21/09/07 16:27:55 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+START load
+START training
+21/09/07 16:27:59 INFO FileInputFormat: Total input paths to process : 10
+21/09/07 16:28:03 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+21/09/07 16:28:03 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+21/09/07 16:28:05 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+21/09/07 16:28:05 WARN LAPACK: Failed to load implementation from: com.github.fommil.netlib.NativeRefLAPACK
+START test
+{"loadTime":1.467,"trainingTime":12.819,"testTime":0.205}
+Number of Data = 1000

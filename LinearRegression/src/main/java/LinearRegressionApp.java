@@ -70,7 +70,9 @@ public class LinearRegressionApp {
     // Building the model
 	start = System.currentTimeMillis();
         final LinearRegressionModel model
-                = LinearRegressionWithSGD.train(parsedRDD_Data, numIterations);
+    //            = LinearRegressionWithSGD.train(parsedRDD_Data, numIterations);
+                = LinearRegressionWithSGD.run(parsedRDD_Data);
+	
 	double trainingTime = (double)(System.currentTimeMillis() - start) / 1000.0;
 
         // Evaluate model on training examples and compute training error

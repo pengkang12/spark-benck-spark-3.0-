@@ -1,0 +1,32 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 15:43:58 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+21/09/07 15:44:02 WARN ThreadLocalRandom: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+21/09/07 15:44:03 INFO deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+21/09/07 15:44:03 INFO deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+21/09/07 15:44:03 INFO deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+21/09/07 15:44:03 INFO deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+21/09/07 15:44:03 INFO deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+21/09/07 15:44:03 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:>                                                         (0 + 0) / 10]21/09/07 15:44:04 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:04 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000000_0' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000000
+21/09/07 15:44:04 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:04 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000001_1' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000001
+[Stage 0:=====>                                                    (1 + 1) / 10]21/09/07 15:44:04 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:04 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000002_2' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000002
+21/09/07 15:44:04 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:04 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000003_3' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000003
+21/09/07 15:44:04 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:04 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000004_4' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000004
+[Stage 0:=============================>                            (5 + 1) / 10]21/09/07 15:44:05 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:05 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000005_5' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000005
+21/09/07 15:44:05 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:05 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000006_6' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000006
+21/09/07 15:44:05 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:05 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000007_7' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000007
+21/09/07 15:44:05 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:05 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000008_8' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000008
+21/09/07 15:44:05 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:44:05 INFO FileOutputCommitter: Saved output of task 'attempt_202109071544_0000_m_000009_9' to file:/home/cc/SparkBench/HDFS/MF/Input/_temporary/0/task_202109071544_0000_m_000009
+[Stage 0:=========================================================(10 + 0) / 10]                                                                                -- org.jblas INFO Deleting /tmp/jblas3405525038955854151/libjblas.so
+-- org.jblas INFO Deleting /tmp/jblas3405525038955854151/libjblas_arch_flavor.so
+-- org.jblas INFO Deleting /tmp/jblas3405525038955854151

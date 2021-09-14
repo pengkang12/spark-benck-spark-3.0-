@@ -1,0 +1,951 @@
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+error: gen_report input variables less than 6
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+error: gen_report input variables less than 6
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+error: gen_report input variables less than 6
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+error: gen_report input variables less than 6
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+error: gen_report input variables less than 6
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+error: gen_report input variables less than 6
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+error: gen_report input variables less than 6
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,LabelPropagation-MLlibConfig,,,,,10,,,200,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,LabelPropagation-MLlibConfig,,,,,10,,,200,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,2,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,2,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+error: gen_report input variables less than 6
+,TriangleCount-MLlibConfig,,,,,2,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+error: gen_report input variables less than 6
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+error: gen_report input variables less than 6
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+error: gen_report input variables less than 6
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+error: gen_report input variables less than 6
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+error: gen_report input variables less than 6
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+error: gen_report input variables less than 6
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numExample,numFeature,dimension
+"bc" utility missing. Please install it to generate proper report.
+,PCA-MLlibConfig,,,,,10,,,1000,1000,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,NUM_OF_EXAMPLES,NUM_OF_FEATURES,NUM_OF_PARTITIONS,class_c,class-r, impurity-c,impurity-c, maxDepth-c,maxDepth-r, maxbin-c,maxbin-r, mode-c,modeR
+"bc" utility missing. Please install it to generate proper report.
+,DecisionTree-MLlibConfig,,,,,2,3,,500,6,2,10,10,gini,variance,5,5,100,100,Classification,Regression
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,m,n,trainSampFact,noise,sigma,test,testSampFact
+"bc" utility missing. Please install it to generate proper report.
+,MF-MLlibConfig,,,,,10,3,, 0.9,false,0.1,false,0.1
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ShortestPaths-MLlibConfig,,,,,10,,,1000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,TriangleCount-MLlibConfig,,,,,60,,,10000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,ConnectedComponent-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,StronglyConnectedComponent-MLlibConfig,,,,,20,,,100,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PregelOperation-MLlibConfig,,,,,10,,,500,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore
+"bc" utility missing. Please install it to generate proper report.
+,sql_rddRelation-config,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LinearRegression-MLlibConfig,,,,,40000,4,0.5,10,0.1,3,,,,,,,

@@ -1,0 +1,10 @@
+21/09/07 16:28:34 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 16:28:38 INFO deprecation: mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+21/09/07 16:28:38 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:28:39 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:28:39 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+21/09/07 16:28:39 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+21/09/07 16:28:39 INFO FileOutputCommitter: Saved output of task 'attempt_202109071628383322611563339735632_0002_m_000000_0' to file:/home/cc/SparkBench/HDFS/DecisionTree/Input/_temporary/0/task_202109071628383322611563339735632_0002_m_000000
+21/09/07 16:28:39 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 16:28:39 INFO FileOutputCommitter: Saved output of task 'attempt_202109071628383322611563339735632_0002_m_000001_0' to file:/home/cc/SparkBench/HDFS/DecisionTree/Input/_temporary/0/task_202109071628383322611563339735632_0002_m_000001

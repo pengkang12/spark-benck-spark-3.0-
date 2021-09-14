@@ -16,7 +16,12 @@ import scala.Tuple2;
 import org.apache.spark.api.java.*;
 import org.apache.spark.api.java.function.Function;
 import org.apache.spark.mllib.classification.LogisticRegressionModel;
-import org.apache.spark.mllib.classification.LogisticRegressionWithSGD;
+//import org.apache.spark.mllib.classification.LogisticRegressionWithSGD;
+import org.apache.spark.ml.classification.LogisticRegression;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+
+
 //import org.apache.spark.mllib.linalg.Vector;
 import org.apache.spark.mllib.linalg.Vectors;
 import org.apache.spark.SparkConf;
@@ -82,8 +87,9 @@ public class LogisticRegressionApp {
 
     // Building the model
 	start = System.currentTimeMillis();
-        final LogisticRegressionModel model
-                = LogisticRegressionWithSGD.train(parsedRDD_Data, numIterations);
+        Dataset<Row> rowData = sqlContext.createDataset(parsedRDD_Data);
+        LogisticRegression lr = new LogisticRegression().setMaxIter(numIterations);
+        final LogisticRegressionModel model = lr.fit(rowData);
 	double trainingTime = (double)(System.currentTimeMillis() - start) / 1000.0;
 
         // Evaluate model on training examples and compute training error

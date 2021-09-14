@@ -1,0 +1,13 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 15:42:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+21/09/07 15:42:41 INFO deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+21/09/07 15:42:41 INFO deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+21/09/07 15:42:41 INFO deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+21/09/07 15:42:41 INFO deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+21/09/07 15:42:41 INFO deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+21/09/07 15:42:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:>                                                          (0 + 0) / 2]21/09/07 15:42:41 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:42:42 INFO FileOutputCommitter: Saved output of task 'attempt_202109071542_0000_m_000000_0' to file:/home/cc/SparkBench/HDFS/KMeans/Input/_temporary/0/task_202109071542_0000_m_000000
+21/09/07 15:42:42 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:42:42 INFO FileOutputCommitter: Saved output of task 'attempt_202109071542_0000_m_000001_1' to file:/home/cc/SparkBench/HDFS/KMeans/Input/_temporary/0/task_202109071542_0000_m_000001
+                                                                                

@@ -1,0 +1,48 @@
+2021-09-07 11:28:49 WARN  Utils:66 - Your hostname, master resolves to a loopback address: 127.0.1.1; using 192.168.122.204 instead (on interface ens2)
+2021-09-07 11:28:49 WARN  Utils:66 - Set SPARK_LOCAL_IP if you need to bind to another address
+2021-09-07 11:28:50 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-09-07 11:28:51 INFO  log:192 - Logging initialized @2034ms
+2021-09-07 11:28:51 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-09-07 11:28:51 INFO  Server:419 - Started @2112ms
+2021-09-07 11:28:51 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2021-09-07 11:28:51 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+2021-09-07 11:28:51 INFO  AbstractConnector:278 - Started ServerConnector@2ad3a1bb{HTTP/1.1,[http/1.1]}{0.0.0.0:4042}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@241a53ef{/jobs,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@70e0accd{/jobs/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7957dc72{/jobs/job,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3aacf32a{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4fdfa676{/stages,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@82c57b3{/stages/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5be82d43{/stages/stage,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77b7ffa4{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5ed190be{/stages/pool,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@402f80f5{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bbc9f97{/storage,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@133e019b{/storage/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@41382722{/storage/rdd,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7dac3fd8{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@425357dd{/environment,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2102a4d5{/environment/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@210386e0{/executors,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3d4d3fe7{/executors/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@65f87a2c{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@51684e4a{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6ce1f601{/static,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5528a42c{/,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2a551a63{/api,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@cc62a3b{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6cc0bcf6{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-09-07 11:28:51 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6ad6fa53{/metrics/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:53 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@21be14c2{/SQL,null,AVAILABLE,@Spark}
+2021-09-07 11:28:53 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@19105a87{/SQL/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:53 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6121a7dd{/SQL/execution,null,AVAILABLE,@Spark}
+2021-09-07 11:28:53 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@31228d83{/SQL/execution/json,null,AVAILABLE,@Spark}
+2021-09-07 11:28:53 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2120bed{/static/sql,null,AVAILABLE,@Spark}
+2021-09-07 11:28:55 INFO  FileInputFormat:249 - Total input paths to process : 1
+agg COUNT(*): 1
+agg COUNT(*) bid>5000: 1
+2021-09-07 11:28:56 INFO  FileInputFormat:249 - Total input paths to process : 1
+select COUNT(*): 767
+select COUNT(*): 510
+join COUNT(*): 0
+2021-09-07 11:28:59 INFO  AbstractConnector:318 - Stopped Spark@2ad3a1bb{HTTP/1.1,[http/1.1]}{0.0.0.0:4042}

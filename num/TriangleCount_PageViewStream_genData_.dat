@@ -1,0 +1,4 @@
+2021-09-07 11:01:58 WARN  Utils:66 - Your hostname, master resolves to a loopback address: 127.0.1.1; using 192.168.122.204 instead (on interface ens2)
+2021-09-07 11:01:58 WARN  Utils:66 - Set SPARK_LOCAL_IP if you need to bind to another address
+2021-09-07 11:01:58 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Listening on port: 44444

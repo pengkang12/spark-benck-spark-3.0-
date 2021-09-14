@@ -1,0 +1,9 @@
+21/09/07 15:49:10 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 15:49:13 INFO FileInputFormat: Total input paths to process : 2
+21/09/07 15:49:16 INFO deprecation: mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+21/09/07 15:49:16 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:49:17 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:49:17 INFO FileOutputCommitter: Saved output of task 'attempt_202109071549165620652931142173383_0104_m_000000_0' to file:/home/cc/SparkBench/HDFS/PageRank/Output/_temporary/0/task_202109071549165620652931142173383_0104_m_000000
+21/09/07 15:49:17 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/07 15:49:17 INFO FileOutputCommitter: Saved output of task 'attempt_202109071549165620652931142173383_0104_m_000001_0' to file:/home/cc/SparkBench/HDFS/PageRank/Output/_temporary/0/task_202109071549165620652931142173383_0104_m_000001

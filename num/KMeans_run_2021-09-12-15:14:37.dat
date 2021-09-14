@@ -1,0 +1,15 @@
+21/09/12 15:14:39 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/12 15:14:40 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+21/09/12 15:14:43 INFO FileInputFormat: Total input paths to process : 2
+21/09/12 15:14:45 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+21/09/12 15:14:45 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+cluster centers: [1.559793523757245,0.5339209683574863,-0.5677656604235718,-0.6557772232979265,0.12479334295889336,0.3940068009068455,-0.4827355379642665,-0.8349946962626039,-0.09716833474147193,0.8813010018674022,0.4965909580602972,-0.05515593610263195,0.8561402607453652,-0.37950234950452094,-0.7990374780390068,0.14407665287183877,-0.280695290960181,0.3825388657755124,-0.6844985750658714,0.14466766476987625],[1.8235676912968866,0.27188012503560316,0.28714816764755074,0.9344081539218799,-0.17543723859501892,-0.022686050137133797,0.8235174531851718,-0.15885080833304152,-0.10245248591883725,-1.1228682161029198,0.8260154746381834,-0.874005856021838,-1.2278955970591758,-0.5155355623411355,-1.5263723318137197,-0.9361166135055001,-0.023207826758706775,0.7455935813533568,-0.15104687106097042,0.15617568994343706]
+21/09/12 15:14:45 INFO deprecation: mapred.output.dir is deprecated. Instead, use mapreduce.output.fileoutputformat.outputdir
+21/09/12 15:14:45 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/12 15:14:45 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/12 15:14:45 INFO FileOutputCommitter: Saved output of task 'attempt_202109121514454878016296708503676_0026_m_000000_0' to file:/home/cc/SparkBench/HDFS/KMeans/Output/_temporary/0/task_202109121514454878016296708503676_0026_m_000000
+21/09/12 15:14:45 INFO FileOutputCommitter: File Output Committer Algorithm version is 1
+21/09/12 15:14:45 INFO FileOutputCommitter: Saved output of task 'attempt_202109121514454878016296708503676_0026_m_000001_0' to file:/home/cc/SparkBench/HDFS/KMeans/Output/_temporary/0/task_202109121514454878016296708503676_0026_m_000001
+{"loadTime":1.387,"trainingTime":2.249,"testTime":0.04,"saveTime":0.347}
+Within Set Sum of Squared Errors = 19291.105272355668

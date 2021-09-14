@@ -27,10 +27,11 @@ import org.apache.spark.storage.StorageLevel;
 // One method for defining the schema of an RDD is to make a case class with the desired column
 // names and types.
 case class Record(key: Int, value: String)
-case class Order(oid: Int,bid: Int, cts: String)
-case class OItem(iid: Int, oid: Int, gid: Int , gnum: Double, price: Double, gstore: Double)
+//case class Order(oid: Int,bid: Int, cts: String)
+//case class OItem(iid: Int, oid: Int, gid: Int , gnum: Double, price: Double, gstore: Double)
 	
 object RDDRelation {
+
   def main(args: Array[String]) {
     if (args.length !=3) {
       println("usage: <input> <output>   <numPartition> ")

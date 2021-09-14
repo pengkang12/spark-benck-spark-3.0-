@@ -1,0 +1,34 @@
+2021-09-07 12:07:54 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-09-07 12:07:55 INFO  log:192 - Logging initialized @2005ms
+2021-09-07 12:07:55 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-09-07 12:07:55 INFO  Server:419 - Started @2102ms
+2021-09-07 12:07:55 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2021-09-07 12:07:55 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+2021-09-07 12:07:55 INFO  AbstractConnector:278 - Started ServerConnector@4a9419d7{HTTP/1.1,[http/1.1]}{0.0.0.0:4042}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7c18432b{/jobs,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@14bb2297{/jobs/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@69adf72c{/jobs/job,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1a15b789{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@57f791c6{/stages,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@51650883{/stages/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6c4f9535{/stages/stage,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@499b2a5c{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@596df867{/stages/pool,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@70e659aa{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@615f972{/storage,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@285f09de{/storage/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@73393584{/storage/rdd,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@31500940{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1827a871{/environment,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@48e64352{/environment/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7249dadf{/executors,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4362d7df{/executors/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@66238be2{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1c25b8a7{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@200606de{/static,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@443dbe42{/,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@473b3b7a{/api,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@402f80f5{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bbc9f97{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-09-07 12:07:55 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7004e3d{/metrics/json,null,AVAILABLE,@Spark}
+2021-09-07 12:10:04 INFO  AbstractConnector:318 - Stopped Spark@4a9419d7{HTTP/1.1,[http/1.1]}{0.0.0.0:4042}

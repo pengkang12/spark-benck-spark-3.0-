@@ -1,0 +1,13 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+21/09/07 15:43:49 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+21/09/07 15:43:52 WARN ThreadLocalRandom: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+21/09/07 15:43:54 INFO FileInputFormat: Total input paths to process : 2
+21/09/07 15:43:55 INFO deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+21/09/07 15:43:55 INFO deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+21/09/07 15:43:55 INFO deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+21/09/07 15:43:55 INFO deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+21/09/07 15:43:55 INFO deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+{"loadTime":0.967,"trainingTime":2.300,"testTime":0.086}
+Training error: 0.022
+Learned classification tree model:
+DecisionTreeModel classifier of depth 5 with 51 nodes
