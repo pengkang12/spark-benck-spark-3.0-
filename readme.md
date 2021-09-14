@@ -1,10 +1,10 @@
 #
 For version 3.0
-To do, KMeans, linearRegression, LogisticRegression.
+To do, linearRegression, LogisticRegression.
 
 # Benchmark Suite for Apache Spark #
 
-- Current version: 2.0
+- Current version: 3.0
 - Release date: 2015-5-10
 
 - Contents:
