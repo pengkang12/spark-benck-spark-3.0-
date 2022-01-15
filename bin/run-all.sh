@@ -1,4 +1,5 @@
 #!/bin/bash
+export BENCH_HOME=$(pwd)
 
 DIR=`dirname "$0"`
 DIR=`cd "${DIR}/.."; pwd`
