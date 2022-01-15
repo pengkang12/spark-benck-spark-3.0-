@@ -25,12 +25,12 @@ public class MMApp {
 
     public static void main(String[] args) {
         if (args.length < 5) {
-            System.out.println("usage: <input> <output> <rank> <block> <numsplit> ");
+            System.out.println("usage: <input> <output> <MatrixSize> <block> <numsplit> ");
             System.exit(0);
         }
         String input = args[0];
         String output = args[1];
-        int rank = Integer.parseInt(args[2]);
+        int MatrixSize = Integer.parseInt(args[2]);
         int block = Integer.parseInt(args[3]);
         int numsplit = Integer.parseInt(args[4]);
          
@@ -41,8 +41,8 @@ public class MMApp {
         JavaSparkContext sc = new JavaSparkContext(conf);
 
         List<MatrixEntry> matrixEntryList = new ArrayList<>();
- 	for(int i=0; i<rank*100; i++)
-       	    for(int j=0; j<rank*100; j++)
+ 	for(int i=0; i<MatrixSize; i++)
+       	    for(int j=0; j<MatrixSize; j++)
                 matrixEntryList.add(new MatrixEntry(i, j, i*j));
 
         JavaRDD<MatrixEntry> matrixA = sc.parallelize(matrixEntryList, 1000);
