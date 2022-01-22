@@ -13,7 +13,11 @@ import org.apache.spark.api.java.function.Function;
 import org.apache.spark.mllib.linalg.distributed.MatrixEntry;
 import org.apache.spark.mllib.linalg.distributed.BlockMatrix;
 import org.apache.spark.mllib.linalg.distributed.CoordinateMatrix;
+import org.apache.spark.mllib.linalg.distributed.IndexedRow;
 import org.apache.spark.mllib.linalg.distributed.IndexedRowMatrix;
+import org.apache.spark.mllib.linalg.distributed.RowMatrix;
+import org.apache.spark.mllib.linalg.Vectors;
+import org.apache.spark.mllib.linalg.Vector;
 import org.apache.spark.SparkConf;
 import org.apache.spark.SparkContext;
 import org.apache.spark.rdd.RDD;
@@ -22,7 +26,8 @@ import org.apache.spark.api.java.JavaRDD;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MMApp {
+
+public class MMApp2 {
 
     public static void main(String[] args) {
         if (args.length < 5) {
@@ -35,36 +40,33 @@ public class MMApp {
         int block = Integer.parseInt(args[3]);
         int numsplit = Integer.parseInt(args[4]);
         
-        SparkConf conf = new SparkConf().setAppName("MMApp CooridnateMatrix");
+        SparkConf conf = new SparkConf().setAppName("MMApp indexedMatrix");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
         //List<MatrixEntry> matrixEntryList = new ArrayList<>();
  	//for(int i=0; i<MatrixSize; i++)
        	//    for(int j=0; j<MatrixSize; j++)
                 //matrixEntryList.add(new MatrixEntry(i, j, i*j));
-        List<Integer> entryList = new ArrayList<>();
+        double entryList[] =new double[MatrixSize];
  	for(int i=0; i<MatrixSize; i++)
-                entryList.add(i);
+                entryList[i] = 1.0;
+        Vector dv = Vectors.dense(entryList);
+        List<IndexedRow> indexedRows = new ArrayList<>();
+ 	for(int i=0; i<MatrixSize; i++)
+                indexedRows.add(new IndexedRow(i, dv));
  
-        JavaRDD rdd = sc.parallelize(entryList);
-
-        JavaPairRDD<Integer, Integer> pairs = rdd.cartesian(rdd);
-        JavaRDD<MatrixEntry> entries = pairs.map(tup ->
-                new MatrixEntry(tup._1(), tup._2(), tup._1() ));
         
-        //JavaRDD<MatrixEntry> matrixA = sc.parallelize(matrixEntryList, 200);
-        // a JavaRDD of (i, j, v) Matrix Entries
+        JavaRDD<IndexedRow> rows = sc.parallelize(indexedRows);// a JavaRDD of local indexedRows 
+        IndexedRowMatrix indexedMat1 = new IndexedRowMatrix(rows.rdd());
+        IndexedRowMatrix indexedMat2 = new IndexedRowMatrix(rows.rdd());
+
 
         int rowsPerBlock = block;
         int colsPerBlock = block;
-        
-        // Create a CoordinateMatrix from a JavaRDD<MatrixEntry>.
-        CoordinateMatrix coordMat1 = new CoordinateMatrix(entries.rdd());
-        CoordinateMatrix coordMat2 = new CoordinateMatrix(entries.rdd());
  
         // Transform the CoordinateMatrix to a BlockMatrix
-        BlockMatrix matA = coordMat1.toBlockMatrix(rowsPerBlock, colsPerBlock);
-        BlockMatrix matB = coordMat2.toBlockMatrix(rowsPerBlock, colsPerBlock);
+        BlockMatrix matA = indexedMat1.toBlockMatrix(rowsPerBlock, colsPerBlock);
+        BlockMatrix matB = indexedMat2.toBlockMatrix(rowsPerBlock, colsPerBlock);
 
 	long start = System.currentTimeMillis();
         // Calculate A^T A.

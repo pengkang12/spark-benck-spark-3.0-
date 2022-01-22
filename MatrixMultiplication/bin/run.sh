@@ -10,7 +10,7 @@ echo "========== running MM benchmark =========="
 DU ${INPUT_HDFS} SIZE 
 
 
-CLASS="MatrixMultiplication.src.main.java.MMApp"
+CLASS="MatrixMultiplication.src.main.java.MMApp2"
 OPTION=" ${INOUT_SCHEME}${INPUT_HDFS} ${INOUT_SCHEME}${OUTPUT_HDFS} ${MATRIXSIZE} ${BLOCKSIZE} ${NUMSPLIT} ${STORAGE_LEVEL}"
 JAR="${DIR}/target/MMApp-1.0.jar"
 
